@@ -1,0 +1,16 @@
+/Users/eddie/Projects/IniSort/IniSort/bin/Debug/net5.0/IniSort.deps.json
+/Users/eddie/Projects/IniSort/IniSort/bin/Debug/net5.0/IniSort.runtimeconfig.json
+/Users/eddie/Projects/IniSort/IniSort/bin/Debug/net5.0/IniSort.runtimeconfig.dev.json
+/Users/eddie/Projects/IniSort/IniSort/bin/Debug/net5.0/IniSort.dll
+/Users/eddie/Projects/IniSort/IniSort/bin/Debug/net5.0/ref/IniSort.dll
+/Users/eddie/Projects/IniSort/IniSort/bin/Debug/net5.0/IniSort.pdb
+/Users/eddie/Projects/IniSort/IniSort/obj/Debug/net5.0/IniSort.csprojAssemblyReference.cache
+/Users/eddie/Projects/IniSort/IniSort/obj/Debug/net5.0/IniSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eddie/Projects/IniSort/IniSort/obj/Debug/net5.0/IniSort.AssemblyInfoInputs.cache
+/Users/eddie/Projects/IniSort/IniSort/obj/Debug/net5.0/IniSort.AssemblyInfo.cs
+/Users/eddie/Projects/IniSort/IniSort/obj/Debug/net5.0/IniSort.csproj.CoreCompileInputs.cache
+/Users/eddie/Projects/IniSort/IniSort/obj/Debug/net5.0/IniSort.dll
+/Users/eddie/Projects/IniSort/IniSort/obj/Debug/net5.0/ref/IniSort.dll
+/Users/eddie/Projects/IniSort/IniSort/obj/Debug/net5.0/IniSort.pdb
+/Users/eddie/Projects/IniSort/IniSort/obj/Debug/net5.0/IniSort.genruntimeconfig.cache
+/Users/eddie/Projects/IniSort/IniSort/bin/Debug/net5.0/TestIni/testIni.ini
